@@ -1,7 +1,7 @@
 body {
     font-family: "Roboto", sans-serif;
     color: #434455;
-    background-color: #FFFFFF ;
+    background-color: #FFFFFF;
 }
 
 ul {
@@ -66,6 +66,10 @@ color: #404bbf;
     font-style: normal;
 }
 <!---------HERO--------->
+
+.main-hero-title {
+  background-color: #2e2f42;
+}
 
 .main-title {
 font-family: "Roboto", sans-serif;
