@@ -18,7 +18,7 @@ a {
 font-family: "Raleway", sans-serif;
 font-weight: 700;
 font-size: 18px;
-line-height: 117%;
+line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #4d5ae5;
@@ -172,12 +172,12 @@ color: #434455;
 
 <!---------FOOTER--------->
 
-.footer-description {
-  
+.footer-description {  
+font-weight: 400;
+font-size: 16px;
 line-height: 1.5;
-color: #F4F4FD;
 letter-spacing: 0.02em;
-
+color: #f4f4fd;
 }
 
 .footer-logo-description {
