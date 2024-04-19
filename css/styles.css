@@ -73,12 +73,12 @@ color: #404bbf;
 
 .main-title {
 font-family: "Roboto", sans-serif;
-font-weight: 700;
-font-size: 56px;
-line-height: 1.07143;
-letter-spacing: 0.02em;
-text-align: center;
-color: #fff; 
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #fff;
 }
 
 .hero-button {
@@ -130,6 +130,21 @@ color: #434455;
 }
 
 <!---------Our Team---------->
+
+.our-team {
+    background-color: background-color: #F4F4FD;
+}
+
+.main-subtitle {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 111%;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+}
+
 
 .main-name-surname {
 font-family: "Roboto", sans-serif;
