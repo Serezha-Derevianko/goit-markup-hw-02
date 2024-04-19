@@ -14,7 +14,7 @@ a {
 
 <!---------HEADER--------->
 
-.logo {
+.main-logo {
 font-family: "Raleway", sans-serif;
 font-weight: 700;
 font-size: 18px;
@@ -24,10 +24,12 @@ text-transform: uppercase;
 color: #4d5ae5;
 }
 
-.page-logo-color {
+.main-logo-color {
 color: #2e2f42;
 }
-   
+
+
+
 .menu-item {
 font-family: "Roboto", sans-serif;
 font-weight: 500;
@@ -130,7 +132,7 @@ color: #434455;
 
 <!---------Our Team---------->
 
-.our-team {
+.main-our-team {
    background-color: #F4F4FD;
 }
 
@@ -183,6 +185,6 @@ color: #f4f4fd;
 background-color: #2e2f42;
 }
 
-.footer-logo {
+.footer-logo-color {
 color: #f4f4fd;
 }
