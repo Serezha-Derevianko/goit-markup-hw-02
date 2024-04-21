@@ -1,21 +1,21 @@
 body {
-    font-family: "Roboto", sans-serif;
-    color: #434455;
-    background-color: #FFFFFF;
+font-family: "Roboto", sans-serif;
+color: #434455;
+background-color: #FFFFFF;
 }
 
 ul {
-    list-style-type: none;
+list-style-type: none;
 }
 
 a {
-    text-decoration: none;
+text-decoration: none;
 }
 
-<!---------HEADER--------->
 
 
-.main-logo {
+
+.logo {
 font-family: "Raleway", sans-serif;
 font-weight: 700;
 font-size: 18px;
@@ -39,7 +39,7 @@ color: #2e2f42;
 }
 
 .menu-link {
-  color: #2e2f42;
+color: #2e2f42;
 }
 
 .menu-link:hover,
@@ -64,9 +64,9 @@ color: #404bbf;
 }
 
 .page-address {
-    font-style: normal;
+font-style: normal;
 }
-<!---------HERO--------->
+
 
 .main-hero {
 background: #2e2f42;
@@ -74,12 +74,12 @@ background: #2e2f42;
 
 .main-title {
 font-family: "Roboto", sans-serif;
-    font-weight: 700;
-    font-size: 56px;
-    line-height: 1.07;
-    letter-spacing: 0.02em;
-    text-align: center;
-    color: #fff;
+font-weight: 700;
+font-size: 56px;
+line-height: 1.07;
+letter-spacing: 0.02em;
+text-align: center;
+color: #fff;
 }
 
 .hero-button {
@@ -94,21 +94,21 @@ background: #4d5ae5;
 
 .hero-button:hover,
 .hero-button:focus {
-    background: #404bbf;
-    cursor: pointer
+background: #404bbf;
+cursor: pointer
 }
 
 
-<!---------INFO--------->
+
 
 .main-subtitle {
-    font-family: "Roboto", sans-serif;
-    font-weight: 700;
-    font-size: 36px;
-    line-height: 1.11111;
-    letter-spacing: 0.02em;
-    text-align: center;
-    color: #2e2f42;
+font-family: "Roboto", sans-serif;
+font-weight: 700;
+font-size: 36px;
+line-height: 1.11111;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2e2f42;
 }
 
 .main-page-subtitle {
@@ -129,21 +129,21 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 
-<!---------Our Team---------->
+
 
 .main-our-team {
-   background-color: #F4F4FD;
+background-color: #F4F4FD;
 }
 
 .main-subtitle {
-    font-family: "Roboto", sans-serif;
-    font-weight: 700;
-    font-size: 36px;
-    line-height: 1.11;
-    letter-spacing: 0.02em;
-    text-align: center;
-    color: #2e2f42;
-    text-transform: capitalize
+font-family: "Roboto", sans-serif;
+font-weight: 700;
+font-size: 36px;
+line-height: 1.11;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2e2f42;
+text-transform: capitalize
 }
 
 .our-team-list {
@@ -171,7 +171,7 @@ text-align: center;
 color: #434455;
 }
 
-<!---------FOOTER--------->
+
 
 .footer-description {  
 font-weight: 400;
